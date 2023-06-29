@@ -1,0 +1,16 @@
+Period,01/01/1985 to most recently available
+Year,1985 to most recently available
+Month,"January, February, March, April, May, June, July, August, September, October, November, December"
+Flow,"Exports, Imports"
+Port,"Aden, Brunswick, Cardston, Chippawa, Cornwall, Corunna, Courtright, Coutts, East Hereford, Elmore, Emerson, Fort Frances, Highwater, Huntingdon, Iroquois, Kingsgate, Loomis, Monchy, Napierville, Niagara Falls, North Portal, Ojibway (Windsor), Philipsburg, Rainy River, Reagan Field, Sarnia, Sarnia/Blue Water, Sault Ste Marie, Sierra, Sprague, St Clair, St Stephen, Willow Creek, Windsor (Ojibway), Total"
+Volume (10^3 m3),Volume of natural gas exports / imports in thousand cubic metres
+Volume (MCF),Volume of natural gas exports / imports in thousand cubic feet
+Value (CN$),Value of natural gas exports / imports in Canadian dollars
+Value (US$),Value of natural gas exports / imports in US dollars
+Price (CN$/GJ),Average price of natural gas exports / imports in Canadian dollars per gigajoule
+Price (US$/MMBTU),Average price of natural gas exports / imports in US dollars per MMBTU
+Confidential,Confidentiality rules have been applied to this report.  Some data is considered confidential and cannot be released.
+m3,Cubic metres
+MCF,Thousand cubic feet
+GJ,Gigajoule
+MMBTU,Million British thermal units
